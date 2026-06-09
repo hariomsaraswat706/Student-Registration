@@ -1,4 +1,4 @@
-# Student Redister smart contrat 
+# Student-Registration smart contrat 
 
 ## Decription
 This is a simpal solidity smart contract for storing students record ;
